@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is a second slide, but it's second to none.
+This is truthfully a second slide, but it is indeed second to none.
 Use the left arrow to go back!
